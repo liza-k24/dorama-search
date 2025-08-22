@@ -1,0 +1,40 @@
+.dorama-card {
+  width: 250px; 
+  border: 1px solid #ddd;
+  border-radius: 8px; 
+  overflow: hidden; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 16px;
+  text-align: left;
+  transition: transform 0.2s; 
+}
+
+.dorama-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(200, 135, 226, 0.2);
+}
+
+.dorama-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.dorama-info {
+  padding: 12px;
+}
+
+.dorama-info h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.dorama-description {
+  font-size: 0.9em;
+  color: #555;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
