@@ -1,6 +1,6 @@
 # Dorama Search App
 
-## О проекте
+## О проекте <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnZGx0NTVpZjgxN3BrNXdhZHdnbDFwYjVnam84bWFnaHd3NTQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" width="50">
 
 Это веб-приложение для поиска дорам по жанрам и году выпуска. Проект был создан для изучения основ **React** и работы с внешним API. Приложение позволяет пользователям просматривать каталог корейских дорам и фильтровать их.
 
@@ -18,6 +18,10 @@
 ---
 
 ## Функционал
+
+<p align="center"><img  src="./readme_assets/pic2.png" width="60%"></p>
+<p align="center"><img  src="./readme_assets/pic3.png" width="60%"></p>
+<p align="center"><img  src="./readme_assets/pic4.png" width="60%"></p>
 
 Приложение на текущий момент умеет:
 
